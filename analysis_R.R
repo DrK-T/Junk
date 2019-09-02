@@ -6,4 +6,6 @@ plot(x,y)
 
 summary(x)
 mean(x)
-str(x)
+
+z=1+2
+
