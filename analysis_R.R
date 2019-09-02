@@ -3,4 +3,6 @@ x
 y<- 40*2 + rnorm(10,0,5)
 y
 plot(x,y)
-mean(c(1,2,3))
+
+summary(x)
+mean(x)
